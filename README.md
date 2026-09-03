@@ -1,4 +1,4 @@
-# Mechanics of a First Person Shooter
+# Mechanics of a First Person Shooter (System inspired by Riot Games' Valorant)
 
 <img width="1903" height="857" alt="image" src="https://github.com/user-attachments/assets/e513f897-0eaf-4356-8c6c-27d133234524" />
 
